@@ -8,13 +8,13 @@ namespace Lab4
         private static Dictionary<int,double> xProbabilities;
         private static Dictionary<int, Pair []> pairs;
         private int randomValueX;
-        private int numberOfRandsToGenerate;
+        private int pairsToGenerate;
 
         private Random rnd;
 
-        public PairRandomGenerator(int numberOfRandsToGenerate)
+        public PairRandomGenerator(int pairsToGenerate)
         {
-            this.numberOfRandsToGenerate = numberOfRandsToGenerate;
+            this.pairsToGenerate = pairsToGenerate;
             xProbabilities = new Dictionary<int, double> { { 1, 0.25 }, { 2, 0.25 }, { 3, 0.25 }, { 4, 0.25 } };
 
             pairs = new Dictionary<int, Pair[]>{
@@ -99,7 +99,7 @@ namespace Lab4
 
         public PairRandomGenerator PrintRandPairs()
         {
-            for (int i = 0; i < numberOfRandsToGenerate; ++i)
+            for (int i = 0; i < pairsToGenerate; ++i)
             {
                 try
                 {
@@ -127,7 +127,6 @@ namespace Lab4
                     pair.PrintCounter();
                 }
             }
-            Console.Read();
         }
     }
 }

@@ -6,7 +6,7 @@ namespace Lab4
         static void Main(string[] args)
         {
 
-            PairRandomGenerator generator = new PairRandomGenerator(10000);
+            PairRandomGenerator generator = new PairRandomGenerator(100000);
             generator
                 .ClearPairsCounters()
                 .PrintRandPairs()
