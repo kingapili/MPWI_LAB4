@@ -1,0 +1,7 @@
+A:\PG\SemestrIV\MPWI\Laby\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+A:\PG\SemestrIV\MPWI\Laby\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe
+A:\PG\SemestrIV\MPWI\Laby\Lab4\Lab4\Lab4\bin\Debug\Lab4.pdb
+A:\PG\SemestrIV\MPWI\Laby\Lab4\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+A:\PG\SemestrIV\MPWI\Laby\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+A:\PG\SemestrIV\MPWI\Laby\Lab4\Lab4\Lab4\obj\Debug\Lab4.exe
+A:\PG\SemestrIV\MPWI\Laby\Lab4\Lab4\Lab4\obj\Debug\Lab4.pdb
